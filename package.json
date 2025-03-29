@@ -1,0 +1,13 @@
+{
+  "name": "exemplo-criacao-pr-automatico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "create:pr:simple": "node cmd/simple.mjs",
+    "create:pr:complex": "node cmd/complex.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
