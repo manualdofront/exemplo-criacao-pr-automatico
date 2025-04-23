@@ -1,14 +1,14 @@
 # Criação de Pull Request Automático
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=hhSslP4Eys8" target="_blank">
- <img src="http://img.youtube.com/vi/hhSslP4Eys8/mqdefault.jpg" alt="Watch the video" border="10" />
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=e8zqZfCNKjc" target="_blank">
+ <img src="http://img.youtube.com/vi/e8zqZfCNKjc/mqdefault.jpg" alt="Watch the video" border="10" />
 </a>
 
 > Clique na imagem acima e assista o vídeo!
 
 ## 🚀 Explicação
 
-> A ideia desse repositório é ser a fonte na qual você pode copiar os dois scripts que eu compartilho e explico [nesse vídeo](). Então, você pode adaptar à sua realidade, implementar no seu time, ganhar uma moral com os colegas e até pedir um aumento pro chefe! 🤪
+> A ideia desse repositório é ser a fonte na qual você pode copiar os dois scripts que eu compartilho e explico [nesse vídeo](https://youtu.be/e8zqZfCNKjc). Então, você pode adaptar à sua realidade, implementar no seu time, ganhar uma moral com os colegas e até pedir um aumento pro chefe! 🤪
 
 Opções **já incluídas**:
 
