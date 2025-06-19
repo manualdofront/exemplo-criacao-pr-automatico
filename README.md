@@ -29,6 +29,9 @@ Opções **já incluídas**:
 
 ► Documentação da CLI do Github ➡️  https://docs.github.com/pt/github-cli
 
+> [!NOTE]
+> Lembre-se de rodar `gh auth login` **após** instalar a CLI do Github!
+
 ## 🤝 Autor
 
 <table>
